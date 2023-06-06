@@ -9,13 +9,22 @@ a full roadmap for learning hyperautpmation with sources
 Learn the fundamentals of automation, including RPA, BPM, AI, ML, and workflow automation.
 Sources: Online tutorials, YouTube videos, and articles on automation concepts.
 > ### **a recommendation for resources:**
->> 
+>> [automation workflow {IBM}](https://www.ibm.com/cloud/blog/workflow-automation)
+>>
+>>[another blog in workflow](https://www.techtarget.com/searchcontentmanagement/definition/workflow-automation)
+>>
+>>[what is BPM](https://www.automationanywhere.com/rpa/business-process-management)
+>>
+>>[RPA vs BPM ](https://www.processmaker.com/blog/difference-between-rpa-bpm/#)
+
+
 * ### **Introduction to Hyperautomation (1 week)**
 
 Gain an understanding of hyperautomation, its benefits, challenges, and potential use cases.
 Sources: Online resources, whitepapers, and case studies on hyperautomation.
 
 > ### **a recommendation for resources:**
+>>[a quick arabic video for the introduction ](https://www.youtube.com/watch?v=l7UI6-R_6QE)
 
 
 * ### **Core Automation Technologies (4-6 weeks)**
@@ -24,6 +33,16 @@ Dive deeper into RPA, AI, ML, NLP, and OCR. Understand their functionalities and
 Sources: Online courses like "RPA Developer Foundation" on UiPath Academy, AI and ML courses on Coursera or edX.
 
 > ### **a recommendation for resources:**
+>>[RPA lec](https://www.youtube.com/watch?v=hlA3csNUhV4)
+>>
+>>[Edureka video 10 hrs in RPA](https://www.youtube.com/watch?v=MBl-3Yb30FA&t=2085s)
+>>
+>>[NLP free code camp](https://www.youtube.com/watch?v=dIUTsFT2MeQ)
+>>
+>>[NLP with deep learning Stanford CS224](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
+>>
+>>[NLP in AI in 10 hrs with python ](https://www.youtube.com/watch?v=igKTO7lQxNo)
+
 
 
 ## **Phase 2: Hands-on Experience and Tool Proficiency (3-6 months)**
